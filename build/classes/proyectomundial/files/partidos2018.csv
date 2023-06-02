@@ -1,0 +1,49 @@
+Grupo,Local,Visitante,continente_local,continente_visitante,Goles_local,Goles_visitante
+A,Rusia,Arabia Saudita,Europa,Asia,5,0
+A,Egipto,Uruguay,África,América del Sur,0,1
+A,Rusia,Egipto,Europa,África,3,1
+A,Uruguay,Arabia Saudita,América del Sur,Asia,1,0
+A,Uruguay,Rusia,América del Sur,Europa,3,0
+A,Arabia Saudita,Egipto,Asia,África,2,1
+B,Marruecos,Irán,África,Asia,0,1
+B,Portugal,España,Europa,Europa,3,3
+B,Portugal,Marruecos,Europa,África,1,0
+B,Irán,España,Asia,Europa,0,1
+B,Irán,Portugal,Asia,Europa,1,1
+B,España,Marruecos,Europa,África,2,2
+C,Francia,Australia,Europa,Asia,2,1
+C,Perú,Dinamarca,América del Sur,Europa,0,1
+C,Dinamarca,Australia,Europa,Asia,1,1
+C,Francia,Perú,Europa,América del Sur,1,0
+C,Dinamarca,Francia,Europa,Europa,0,0
+C,Australia,Perú,Asia,América del Sur,0,2
+D,Argentina,Islandia,América del Sur,Europa,1,1
+D,Croacia,Nigeria,Europa,África,2,0
+D,Argentina,Croacia,América del Sur,Europa,0,3
+D,Nigeria,Islandia,África,Europa,2,0
+D,Nigeria,Argentina,África,América del Sur,1,2
+D,Islandia,Croacia,Europa,Europa,1,2
+E,Costa Rica,Serbia,América Central,Europa,0,1
+E,Brasil,Suiza,América del Sur,Europa,1,1
+E,Brasil,Costa Rica,América del Sur,América Central,2,0
+E,Serbia,Suiza,Europa,Europa,1,2
+E,Serbia,Brasil,Europa,América del Sur,0,2
+E,Suiza,Costa Rica,Europa,América Central,2,2
+F,Alemania,México,Europa,América del Norte,0,1
+F,Suecia,Corea del Sur,Europa,Asia,1,0
+F,Corea del Sur,México,Asia,América del Norte,1,2
+F,Alemania,Suecia,Europa,Europa,2,1
+F,Corea del Sur,Alemania,Asia,Europa,2,0
+F,México,Suecia,América del Norte,Europa,0,3
+G,Bélgica,Panamá,Europa,América Central,3,0
+G,Túnez,Inglaterra,África,Europa,1,2
+G,Bélgica,Túnez,Europa,África,5,2
+G,Inglaterra,Panamá,Europa,América Central,6,1
+G,Inglaterra,Bélgica,Europa,Europa,0,1
+G,Panamá,Túnez,América Central,África,1,2
+H,Colombia,Japón,América del Sur,Asia,1,2
+H,Polonia,Senegal,Europa,África,1,2
+H,Japón,Senegal,Asia,África,2,2
+H,Polonia,Colombia,Europa,América del Sur,0,3
+H,Japón,Polonia,Asia,Europa,0,1
+H,Senegal,Colombia,África,América del Sur,0,1
